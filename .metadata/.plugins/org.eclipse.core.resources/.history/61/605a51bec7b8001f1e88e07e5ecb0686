@@ -1,0 +1,5 @@
+package com.ramos.facturacion.almacen.rest;
+
+public class EventoController {
+
+}

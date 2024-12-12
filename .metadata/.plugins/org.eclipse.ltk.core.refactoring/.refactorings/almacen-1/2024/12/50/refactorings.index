@@ -1,0 +1,59 @@
+1734031548745	Rename package 'com.arcila.facturacion.almacen'
+1734031568892	Rename package 'com.arcila.facturacion.almacen.config'
+1734031586143	Rename package 'com.arcila.facturacion.almacen.controller'
+1734031632379	Delete element
+1734031651536	Copy package
+1734031659557	Delete element
+1734031848927	Delete element
+1734031898195	Rename package 'com.arcila.facturacion.almacen.converter'
+1734031911593	Delete element
+1734031928388	Rename package 'com.arcila.facturacion.almacen.dto'
+1734032029455	Delete element
+1734032043348	Rename package 'com.arcila.facturacion.almacen.entity'
+1734032093680	Delete element
+1734032113755	Rename package 'com.arcila.facturacion.almacen.exception'
+1734032121295	Delete element
+1734032132181	Rename package 'com.arcila.facturacion.almacen.repository'
+1734032141806	Delete element
+1734032156739	Rename package 'com.arcila.facturacion.almacen.rest'
+1734032251573	Delete element
+1734032265582	Rename package 'com.arcila.facturacion.almacen.service'
+1734032277399	Delete element
+1734032289923	Rename package 'com.arcila.facturacion.almacen.service.impl'
+1734032310295	Rename package 'com.arcila.facturacion.almacen.util'
+1734032319783	Delete element
+1734032333556	Rename package 'com.arcila.facturacion.almacen.validator'
+1734032927063	Copy package
+1734032940165	Delete element
+1734032950310	Rename package 'com.ramos.facturacion.almacen.validator.copy'
+1734033493967	Rename resource 'categoriaReport.html'
+1734035229944	Delete element
+1734035353534	Move compilation unit
+1734035366634	Move compilation unit
+1734035384059	Rename type 'EventoConverter'
+1734035428872	Delete element
+1734035431982	Delete element
+1734035439734	Move compilation unit
+1734035459672	Delete element
+1734035463787	Delete element
+1734035467801	Move compilation unit
+1734035478721	Delete element
+1734035490158	Delete element
+1734035494818	Move compilation unit
+1734035517338	Delete element
+1734035520922	Delete element
+1734035526541	Move compilation unit
+1734035537147	Delete element
+1734035548022	Delete element
+1734035554787	Move compilation unit
+1734035568223	Delete element
+1734035571456	Delete element
+1734035576958	Move compilation unit
+1734035601656	Delete element
+1734035606067	Move compilation unit
+1734035653565	Delete element
+1734035656863	Delete element
+1734035666228	Move compilation unit
+1734035696614	Delete element
+1734035789363	Delete element
+1734036064952	Rename package 'com.arcila.facturacion.almacen'
